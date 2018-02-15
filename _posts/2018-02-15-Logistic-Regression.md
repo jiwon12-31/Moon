@@ -110,7 +110,7 @@ $$log(\frac{p(X)}{1-p(X)})$$ = $$β_0 + β_1X$$
 
 ![likelihood](https://github.com/jiwon12-31/jiwon12-31.github.io/blob/master/assets/img/likelihood.JPG)
 
-위의 식이 likelihood function이며, 위 식을 최대화 하는 각각의 $p(x_i)$를 찾으면 된다. 하지만 이러한 수식으로 보면 이해가 쉽게 되지 않기 때문에 아래의 예시를 통해 다시 한번 설명하려고 한다.
+위의 식이 likelihood function이며, 위 식을 최대화 하는 각각의 $$p(x_i)$$를 찾으면 된다. 하지만 이러한 수식으로 보면 이해가 쉽게 되지 않기 때문에 아래의 예시를 통해 다시 한번 설명하려고 한다.
 
 | 대출 금액 | 파산함 (1) | 파산하지 않음 (0) |
 | --------- | ---------- | ----------------- |
