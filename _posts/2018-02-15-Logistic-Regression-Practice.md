@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Practice-Logistic Regression"
+date:   2018-02-15
+excerpt: "Simple codes to use logistic regression"
+tag:
+- markdown 
+- practice
+- python
+comments: false
+---
+
 
 ## 로지스틱 회귀 Practice
 로지스틱 회귀가 실제로 어떻게 쓰이는지 실습을 통해 알아보자. 데이터는 Kaggle의 Bike Sharing Demand에서 주어진 데이터이다. (https://www.kaggle.com/c/bike-sharing-demand)
