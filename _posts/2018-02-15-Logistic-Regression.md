@@ -139,6 +139,9 @@ Likelihood = $$p_1^{10} (1-p_1)^{90} p_2^{30}(1-p_2)^{70}p_3^{60}(1-p_3)^{40}$$
 
 #### **Reference** ####
 https://upload.wikimedia.org/wikipedia/commons/b/be/Normdist_regression.png
+
 https://plot.ly/~florianh/140.png
+
 An Introduction to Statistical Learning with Applications in R
+
 Principles of Data Science
