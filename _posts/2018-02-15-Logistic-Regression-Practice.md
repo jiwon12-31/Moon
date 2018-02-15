@@ -666,14 +666,6 @@ print('Accuracy of Logistic Regression: {:.2f}'.format(logreg.score(X_test, y_te
 ```
 
     Accuracy of Logistic Regression: 0.59
-    
 
-
-```python
-
-```
-
-
-```python
-
-```
+#### **Reference** ####
+https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/
