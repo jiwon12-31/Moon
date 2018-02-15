@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Logistic Regression"
+date:   2018-02-15
+excerpt: "Basic things about logistic regression"
+tag:
+- markdown 
+- syntax
+- sample
+- test
+- jekyll
+comments: true
+---
 # **Logistic Regression**
 
 ### **Linear Regression**
