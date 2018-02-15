@@ -29,7 +29,7 @@ comments: true
 
 **1) 의미없는 회귀식 생성**
 
-![Y](C:\Users\jeje9\Desktop\Design Team\180203 Feature Engineering\image\Y.JPG)
+![Y](/assets/img/Y.jpg)
 
 제시된 종속변수는 범주형 변수로 1, 2, 3 각각의 숫자는 서로 다른 질병을 나타낸다. 이때의 숫자들은 숫자로서의 의미를 가지고 있지 않다. 즉, 각 숫자가 나타내는 병명이 바뀌어도 아무런 상관이 없다.
 
@@ -109,7 +109,7 @@ comments: true
 
 로지스틱 회귀식의 계수값을 찾기 위해서는 "Likelihood function"을 이용한다. 
 
-![likelihood](C:\Users\jeje9\Desktop\Design Team\180203 Feature Engineering\image\likelihood.JPG)
+![likelihood](/assets/img/likelihood.jpg)
 
 위의 식이 likelihood function이며, 위 식을 최대화 하는 각각의 $p(x_i)$를 찾으면 된다. 하지만 이러한 수식으로 보면 이해가 쉽게 되지 않기 때문에 아래의 예시를 통해 다시 한번 설명하려고 한다.
 
