@@ -11,9 +11,7 @@ comments: false
 ## Personal Records
 * GAFL
 * Eng-Chi major
-
 * Yonsei Univ.
 * Studying Statistics
-
 * YBIGTA
 * Data Design Team
