@@ -5,10 +5,7 @@ date:   2018-02-15
 excerpt: "Basic things about logistic regression"
 tag:
 - markdown 
-- syntax
-- sample
-- test
-- jekyll
+- mathjax
 comments: false
 ---
 # **Logistic Regression**
