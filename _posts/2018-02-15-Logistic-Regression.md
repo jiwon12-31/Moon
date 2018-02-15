@@ -26,7 +26,7 @@ comments: false
 
 **1) 의미없는 회귀식 생성**
 
-![Y](https://github.com/jiwon12-31/jiwon12-31.github.io/blob/master/assets/img/Y.JPG)
+![Y]('/assets/img/Y.JPG')
 
 제시된 종속변수는 범주형 변수로 1, 2, 3 각각의 숫자는 서로 다른 질병을 나타낸다. 이때의 숫자들은 숫자로서의 의미를 가지고 있지 않다. 즉, 각 숫자가 나타내는 병명이 바뀌어도 아무런 상관이 없다.
 
@@ -108,7 +108,7 @@ $$log(\frac{p(X)}{1-p(X)})$$ = $$β_0 + β_1X$$
 
 로지스틱 회귀식의 계수값을 찾기 위해서는 "Likelihood function"을 이용한다. 
 
-![likelihood](https://github.com/jiwon12-31/jiwon12-31.github.io/blob/master/assets/img/likelihood.JPG)
+![likelihood]('/assets/img/likelihood.JPG')
 
 위의 식이 likelihood function이며, 위 식을 최대화 하는 각각의 $$p(x_i)$$를 찾으면 된다. 하지만 이러한 수식으로 보면 이해가 쉽게 되지 않기 때문에 아래의 예시를 통해 다시 한번 설명하려고 한다.
 
@@ -120,10 +120,10 @@ $$log(\frac{p(X)}{1-p(X)})$$ = $$β_0 + β_1X$$
 
 위의 표는 임의대로 각 대출 금액에 따른 파산 여부를 정리한 표이다. 
 
-P(Y=1|X=100) = $$p_1$$,
-P(Y=1|X=200) = $$p_2$$, 
-P(Y=1|X=300) = $$p_3$$, 
-P(Y=1|X=400) = $$p_4$$  라고 했을 때 Likelihood는 다음과 같이 계산할 수 있다.
+$$P(Y=1|X=100)$$ = $$p_1$$,
+$$P(Y=1|X=200)$$ = $$p_2$$, 
+$$P(Y=1|X=300)$$ = $$p_3$$, 
+$$P(Y=1|X=400)$$ = $$p_4$$  라고 했을 때 Likelihood는 다음과 같이 계산할 수 있다.
 
 Likelihood = $$p_1^{10} (1-p_1)^{90} p_2^{30}(1-p_2)^{70}p_3^{60}(1-p_3)^{40}$$
 
