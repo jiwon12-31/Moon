@@ -26,7 +26,7 @@ comments: false
 
 **1) 의미없는 회귀식 생성**
 
-![Y]('/assets/img/Y.JPG')
+![Y]('https://github.com/jiwon12-31/jiwon12-31.github.io/blob/master/assets/img/Y.JPG')
 
 제시된 종속변수는 범주형 변수로 1, 2, 3 각각의 숫자는 서로 다른 질병을 나타낸다. 이때의 숫자들은 숫자로서의 의미를 가지고 있지 않다. 즉, 각 숫자가 나타내는 병명이 바뀌어도 아무런 상관이 없다.
 
