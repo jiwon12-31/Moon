@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Summary of RDD Paper"
+date:   2018-10-02
+excerpt: "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing"
+tag:
+- markdown 
+- Spark
+comments: false
+---
+
 ## Abstract
 
 RDD(Resilient Distributed Datasets) : 기존 computing framework의 비효율성을 보완하여 in-memory computation + fault-tolerant한 방식으로 Spark에서 구동
